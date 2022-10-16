@@ -19,10 +19,10 @@ My Stats:
 
 Social Media:
 
-<img src="telegam logo.jpg" alt="drawing" width="50"/>[Telegram](https://t.me/vadim_steshkin)
+<img src="telegram logo.jpg" alt="drawing" width="50"/>[Telegram](https://t.me/vadim_steshkin)
 
 
-<img src="vk.jpg" alt="drawing" width="50"/>[Telegram](https://t.me/vadim_steshkin)[Vk](https://vk.com/yeah6)
+<img src="vk.jpg" alt="drawing" width="50"/>[Vk](https://vk.com/yeah6)
 
 
 [Stepik](https://stepik.org/users/61529033)
