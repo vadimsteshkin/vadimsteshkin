@@ -1,12 +1,13 @@
 ## _Hello, World!_
 ## Vadim 18 y.o.   
 
-<img src="1636197211_47-papik-pro-p-mai-logotip-foto-55.jpg" alt="drawing" width="20"/>Study in Moscow Aviation Institute  '26
+<img src="1636197211_47-papik-pro-p-mai-logotip-foto-55.jpg" alt="drawing" width="50"/>Study in Moscow Aviation Institute  '26
 **Learn** Python, C++, Computer Science
 
 Solve the task:
 
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/vadimsteshkin) 
+
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vsteshkin2004&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
@@ -17,10 +18,11 @@ My Stats:
 
 
 Social Media:
-<img src="telegam_logo.jpg" alt="drawing" width="20"/>[Telegram](https://t.me/vadim_steshkin)
+
+<img src="telegam logo.jpg" alt="drawing" width="50"/>[Telegram](https://t.me/vadim_steshkin)
 
 
- <img src="vk.jpg" alt="drawing" width="20"/>[Telegram](https://t.me/vadim_steshkin)[Vk](https://vk.com/yeah6)
+<img src="vk.jpg" alt="drawing" width="50"/>[Telegram](https://t.me/vadim_steshkin)[Vk](https://vk.com/yeah6)
 
 
 [Stepik](https://stepik.org/users/61529033)
