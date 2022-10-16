@@ -25,4 +25,4 @@
 <img src="vk.jpg" alt="drawing" width="25"/>[Vk](https://vk.com/yeah6)
 
 
-<img src="stepik.jpg" alt="drawing" width="25"/>[Stepik](https://stepik.org/users/61529033)
+<img src="stepik.png" alt="drawing" width="25"/>[Stepik](https://stepik.org/users/61529033)
