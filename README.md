@@ -6,7 +6,7 @@
 
 **Solve the task:**
 
-[![codewars](https://www.codewars.com/users/vadimsteshkin/badges/Large)](https://www.codewars.com/users/vadimsteshkin) 
+[![codewars](https://www.codewars.com/users/vadimsteshkin/badges/small)](https://www.codewars.com/users/vadimsteshkin) 
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vsteshkin2004&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
