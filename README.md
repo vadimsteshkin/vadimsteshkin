@@ -3,9 +3,9 @@
 <img src="1636197211_47-papik-pro-p-mai-logotip-foto-55.jpg" alt="drawing" width="25"/>Study in Moscow Aviation Institute  '26
 
 
-![](https://komarev.com/ghpvc/?username=vadimsteshkin)
-
 **Learn** Python, C++, Computer Science
+
+![](https://komarev.com/ghpvc/?username=vadimsteshkin)
 
 **Solve the task:**
 
