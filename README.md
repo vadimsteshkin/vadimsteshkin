@@ -1,4 +1,4 @@
-## _Hello, World!_  Vadim 18 y.o.   
+## _Hello, World!_  Vadim 19 y.o.   
 
 <img src="1636197211_47-papik-pro-p-mai-logotip-foto-55.jpg" alt="drawing" width="25"/>Study in Moscow Aviation Institute  '26
 
